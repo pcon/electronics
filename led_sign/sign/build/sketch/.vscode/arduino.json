@@ -1,8 +1,0 @@
-#line 1 "/home/pcon/devel/electronics/led_sign/sign/.vscode/arduino.json"
-{
-    "configuration": "xtal=80,vt=flash,exception=disabled,stacksmash=disabled,ssl=all,mmu=3232,non32xfer=fast,eesz=4M2M,ip=lm2f,dbg=Disabled,lvl=OTA,wipe=none,baud=921600",
-    "board": "esp8266:esp8266:d1_mini",
-    "port": "192.168.4.52",
-    "sketch": "sign.ino",
-    "output": "build"
-}
